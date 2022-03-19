@@ -2,11 +2,14 @@
     <i> I'm Ram Bhosale <i>
 </h1>
 
+<p align="center">
+  <img src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" />
+</p>
 
-**A web developer & Open Source Enthusiast, currently pursuing B.Tech in CSE discipline. My field of interest is DL/ML, App/Web Development. Looking for an organization where I can utilize whatever knowledge I have gathered or acquired till now and further enhance my skill-sets in the IT field. I am the type of guy who always learns by implementing, always having a strong desire to learn. I spend most of my time contributing to Open-Source Projects and software.**
-- 🔭 I’m currently working on ....***Backend*** and sometimes on **Frontend**
+
+- 🔭 I mostly work on ....***Web Backend***, ***Database Design*** and ***Migrations***, ***cli apps***, ***Automation Scripts*** and sometimes on **Frontend**
 - 🌱 I’m currently learning .... **Go** *&* **Lua**
-- 💬 Ask me about .... ***Vim*, *Neovim*, *Database Design, Maintenance and Migration*, *AWS*, *Nodejs*, *js*, *CSS*, *Git*, *PHP*, *Laravel*, *Codeigniter*, *SQL*, *Go***
+- 💬 Ask me about .... ***Vim*, *Neovim*, *Database*, *AWS*, *Nodejs*, *js*, *CSS*, *Git*, *PHP*, *Laravel*, *Codeigniter*, *SQL*, *Go***
 
 <div align="center">
     <img src="https://go.dev/blog/gopher/usergroups.png" height="150">
@@ -55,7 +58,7 @@
       <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>
         <img src="https://icongr.am/devicon/linux-original.svg?size=50&color=currentColor" >
       <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
-        <img src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor" >      
+        <img src="https://icongr.am/devicon/mysql-original.svg?size=50&color=currentColor" >
         <img src="https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor" >
         <img src="https://icongr.am/devicon/nginx-original.svg?size=50&color=currentColor" >
         <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" >
